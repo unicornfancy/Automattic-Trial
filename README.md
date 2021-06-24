@@ -1,5 +1,5 @@
 # Turn It Around New Site
-Repository for the new Turn It Around site
+This is the repository for the new Turn It Around site
 
 # Project Goals
 Create a new website for Turn It Around with improved SEO, a directory, a fresh design, a multifaceted storefront, and ease of use for site owners. Migrate the existing content from a Drupal site to WordPress. Turn It Around shares anti-bullying messages and resources with schools, counselors, administrators, and now students. They also host events and programs at and with schools around the US.  
